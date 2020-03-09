@@ -8,4 +8,3 @@ class = Dog
     @name
   end
   
-  frg
