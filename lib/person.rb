@@ -9,7 +9,7 @@
   def name
     @name
   end
-end
+
 
 
   def initialize(job)
